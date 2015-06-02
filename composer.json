@@ -14,5 +14,6 @@
 		"mikey179/vfsStream": "1.1.*",
 		"cirevolution/system": "1.0.@dev",
 		"cirevolution/cli": "1.0.@dev"
-	}
+	},
+	"minimum-stability": "dev"
 }
