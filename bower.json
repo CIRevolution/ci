@@ -1,0 +1,23 @@
+{
+  "name": "Codeigniter Revolution Framework",
+  "version": "1.0.0",
+  "authors": [
+    "Nabilftd <nabilftd@gmail.com>"
+  ],
+  "description": "CodeIgniter Revolution Assets Dependencies",
+  "keywords": [
+    "CodeIgniter",
+    "CIRevolutionSystem"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

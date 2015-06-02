@@ -1,0 +1,18 @@
+{
+	"description" : "The CodeIgniter framework Revolution",
+	"name" : "cirevolution/ci",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Code\\": "app/"
+		}
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"cirevolution/system": "1.0.*",
+		"cirevolution/cli": "1.0.*"
+	}
+}
